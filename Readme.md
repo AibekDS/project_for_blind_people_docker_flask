@@ -12,3 +12,8 @@ This project is a practice implementation using Docker and Flask. It aims to exp
    ```bash
    git clone https://github.com/AibekDS/project_for_blind_people.git
    cd project_for_blind_people
+
+And how it's look like:
+<p align="center">
+    <img src="how_it_works\Снимок экрана (180).png" alt="Project Logo">
+</p>

@@ -1,0 +1,6 @@
+ultralytics==8.0.30
+matplotlib==3.8.1
+pillow==9.5.0
+opencv-python==4.8.1.78
+numpy==1.26.0
+Flask==3.0.0
